@@ -1,4 +1,4 @@
-# 2D rpg game made with Unity
+# 2D rpg game made with Unity 2018.4.21
 
 This project takes place in the validation of my DUT in summer 2020 (DUT used to be a 2-year degree in France)   
 It was my first experience with a game engine
